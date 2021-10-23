@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Learn Vue Js",
+      "day": "October 23, at 3:30pm",
+      "reminder": true
+    },
+    {
+      "id": 52340,
+      "text": "Meet with Jo",
+      "day": "October 23, whenever he comes",
+      "reminder": true
+    },
+    {
+      "text": "Attend Conference",
+      "day": "October 23 at 3pm",
+      "reminder": false,
+      "id": 52342
+    }
+  ]
+}
